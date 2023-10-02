@@ -1,0 +1,28 @@
+@import url(../style.css);
+
+.down_second2{
+    background-image:url(./크기.png)
+    height: 355px;
+    display: flex;
+    align-items: center;
+    padding-left: 116px;
+    padding-right: 116px;
+}
+form{
+    background-color: red;
+    display: block;
+}
+
+input[type=radio]{
+    background-color: #FFFF;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    width: 34px;
+    height: 34px;
+    border-radius: 30px;
+    box-shadow:
+    3.4px 3.1px 5.3px rgba(0, 0, 0, 0.024),
+    11.4px 10.3px 17.9px rgba(0, 0, 0, 0.035),
+    51px 46px 80px rgba(0, 0, 0, 0.07);
+
+}
